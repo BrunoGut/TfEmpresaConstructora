@@ -1,0 +1,25 @@
+C:\Users\Admin\Desktop\Facu-4toC-(1erC 2023)\Algoritmos y Progra\Proyecto_Integrador\Integrador\bin\Debug\Integrador.exe.config
+C:\Users\Admin\Desktop\Facu-4toC-(1erC 2023)\Algoritmos y Progra\Proyecto_Integrador\Integrador\bin\Debug\Integrador.exe
+C:\Users\Admin\Desktop\Facu-4toC-(1erC 2023)\Algoritmos y Progra\Proyecto_Integrador\Integrador\bin\Debug\Integrador.pdb
+C:\Users\Admin\Desktop\Facu-4toC-(1erC 2023)\Algoritmos y Progra\Proyecto_Integrador\Integrador\obj\Debug\Integrador.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Facu-4toC-(1erC 2023)\Algoritmos y Progra\Proyecto_Integrador\Integrador\obj\Debug\Integrador.exe
+C:\Users\Admin\Desktop\Facu-4toC-(1erC 2023)\Algoritmos y Progra\Proyecto_Integrador\Integrador\obj\Debug\Integrador.pdb
+C:\Users\Giuliano\Desktop\Integrador\Integrador\bin\Debug\Integrador.exe.config
+C:\Users\Giuliano\Desktop\Integrador\Integrador\bin\Debug\Integrador.exe
+C:\Users\Giuliano\Desktop\Integrador\Integrador\bin\Debug\Integrador.pdb
+C:\Users\Giuliano\Desktop\Integrador\Integrador\obj\Debug\Integrador.csprojResolveAssemblyReference.cache
+C:\Users\Giuliano\Desktop\Integrador\Integrador\obj\Debug\Integrador.exe
+C:\Users\Giuliano\Desktop\Integrador\Integrador\obj\Debug\Integrador.pdb
+C:\Users\alejo\Desktop\Integrador\Integrador\bin\Debug\Integrador.exe.config
+C:\Users\alejo\Desktop\Integrador\Integrador\bin\Debug\Integrador.exe
+C:\Users\alejo\Desktop\Integrador\Integrador\bin\Debug\Integrador.pdb
+C:\Users\alejo\Desktop\Integrador\Integrador\obj\Debug\Integrador.csprojResolveAssemblyReference.cache
+C:\Users\alejo\Desktop\Integrador\Integrador\obj\Debug\Integrador.exe
+C:\Users\alejo\Desktop\Integrador\Integrador\obj\Debug\Integrador.pdb
+C:\Users\bruno\Desktop\Facultad\Segundo_año\Primer _cuatrimestre\Algoritmos_y_programacion\Integrador-CodigoAlejoFinal\Integrador-codigoAlejo\Integrador\bin\Debug\Integrador.exe.config
+C:\Users\bruno\Desktop\Facultad\Segundo_año\Primer _cuatrimestre\Algoritmos_y_programacion\Integrador-CodigoAlejoFinal\Integrador-codigoAlejo\Integrador\bin\Debug\Integrador.exe
+C:\Users\bruno\Desktop\Facultad\Segundo_año\Primer _cuatrimestre\Algoritmos_y_programacion\Integrador-CodigoAlejoFinal\Integrador-codigoAlejo\Integrador\bin\Debug\Integrador.pdb
+C:\Users\bruno\Desktop\Facultad\Segundo_año\Primer _cuatrimestre\Algoritmos_y_programacion\Integrador-CodigoAlejoFinal\Integrador-codigoAlejo\Integrador\obj\Debug\Integrador.exe
+C:\Users\bruno\Desktop\Facultad\Segundo_año\Primer _cuatrimestre\Algoritmos_y_programacion\Integrador-CodigoAlejoFinal\Integrador-codigoAlejo\Integrador\obj\Debug\Integrador.pdb
+C:\Users\Bruno\Desktop\Facultad\Segundo_año\Primer _cuatrimestre\Algoritmos_y_programacion\Integrador-CodigoAlejoFinal\Integrador-codigoAlejo\Integrador\obj\Debug\Integrador.csproj.AssemblyReference.cache
+C:\Users\Bruno\Desktop\Facultad\Segundo_año\Primer _cuatrimestre\Algoritmos_y_programacion\Integrador-CodigoAlejoFinal\Integrador-codigoAlejo\Integrador\obj\Debug\Integrador.csproj.CoreCompileInputs.cache

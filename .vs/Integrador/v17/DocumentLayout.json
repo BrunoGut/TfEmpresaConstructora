@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bruno\\Desktop\\Facultad\\Segundo_a\u00F1o\\Primer _cuatrimestre\\Algoritmos_y_programacion\\Integrador-CodigoAlejoFinal\\Integrador-codigoAlejo\\Integrador\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2EF9295-CF89-4BD6-8C39-C1F68CB46BFC}|Integrador.csproj|C:\\Users\\Bruno\\Desktop\\Facultad\\Segundo_a\u00F1o\\Primer _cuatrimestre\\Algoritmos_y_programacion\\Integrador-CodigoAlejoFinal\\Integrador-codigoAlejo\\Integrador\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2EF9295-CF89-4BD6-8C39-C1F68CB46BFC}|Integrador.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2EF9295-CF89-4BD6-8C39-C1F68CB46BFC}|Integrador.csproj|c:\\users\\bruno\\desktop\\facultad\\segundo_a\u00F1o\\primer _cuatrimestre\\algoritmos_y_programacion\\integrador-codigoalejofinal\\integrador-codigoalejo\\integrador\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2EF9295-CF89-4BD6-8C39-C1F68CB46BFC}|Integrador.csproj|solutionrelative:conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2EF9295-CF89-4BD6-8C39-C1F68CB46BFC}|Integrador.csproj|c:\\users\\bruno\\desktop\\facultad\\segundo_a\u00F1o\\primer _cuatrimestre\\algoritmos_y_programacion\\integrador-codigoalejofinal\\integrador-codigoalejo\\integrador\\empresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2EF9295-CF89-4BD6-8C39-C1F68CB46BFC}|Integrador.csproj|solutionrelative:empresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2EF9295-CF89-4BD6-8C39-C1F68CB46BFC}|Integrador.csproj|c:\\users\\bruno\\desktop\\facultad\\segundo_a\u00F1o\\primer _cuatrimestre\\algoritmos_y_programacion\\integrador-codigoalejofinal\\integrador-codigoalejo\\integrador\\obrero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2EF9295-CF89-4BD6-8C39-C1F68CB46BFC}|Integrador.csproj|solutionrelative:obrero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2EF9295-CF89-4BD6-8C39-C1F68CB46BFC}|Integrador.csproj|c:\\users\\bruno\\desktop\\facultad\\segundo_a\u00F1o\\primer _cuatrimestre\\algoritmos_y_programacion\\integrador-codigoalejofinal\\integrador-codigoalejo\\integrador\\obra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2EF9295-CF89-4BD6-8C39-C1F68CB46BFC}|Integrador.csproj|solutionrelative:obra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{28836128-fc2c-11d2-a433-00c04f72d18a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Empresa.cs",
+              "DocumentMoniker": "C:\\Users\\Bruno\\Desktop\\Facultad\\Segundo_a\u00F1o\\Primer _cuatrimestre\\Algoritmos_y_programacion\\Integrador-CodigoAlejoFinal\\Integrador-codigoAlejo\\Integrador\\Empresa.cs",
+              "RelativeDocumentMoniker": "Empresa.cs",
+              "ToolTip": "C:\\Users\\Bruno\\Desktop\\Facultad\\Segundo_a\u00F1o\\Primer _cuatrimestre\\Algoritmos_y_programacion\\Integrador-CodigoAlejoFinal\\Integrador-codigoAlejo\\Integrador\\Empresa.cs",
+              "RelativeToolTip": "Empresa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T03:42:09.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\Bruno\\Desktop\\Facultad\\Segundo_a\u00F1o\\Primer _cuatrimestre\\Algoritmos_y_programacion\\Integrador-CodigoAlejoFinal\\Integrador-codigoAlejo\\Integrador\\Conexion.cs",
+              "RelativeDocumentMoniker": "Conexion.cs",
+              "ToolTip": "C:\\Users\\Bruno\\Desktop\\Facultad\\Segundo_a\u00F1o\\Primer _cuatrimestre\\Algoritmos_y_programacion\\Integrador-CodigoAlejoFinal\\Integrador-codigoAlejo\\Integrador\\Conexion.cs",
+              "RelativeToolTip": "Conexion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T03:42:03.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Obra.cs",
+              "DocumentMoniker": "C:\\Users\\Bruno\\Desktop\\Facultad\\Segundo_a\u00F1o\\Primer _cuatrimestre\\Algoritmos_y_programacion\\Integrador-CodigoAlejoFinal\\Integrador-codigoAlejo\\Integrador\\Obra.cs",
+              "RelativeDocumentMoniker": "Obra.cs",
+              "ToolTip": "C:\\Users\\Bruno\\Desktop\\Facultad\\Segundo_a\u00F1o\\Primer _cuatrimestre\\Algoritmos_y_programacion\\Integrador-CodigoAlejoFinal\\Integrador-codigoAlejo\\Integrador\\Obra.cs",
+              "RelativeToolTip": "Obra.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T03:40:34.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bruno\\Desktop\\Facultad\\Segundo_a\u00F1o\\Primer _cuatrimestre\\Algoritmos_y_programacion\\Integrador-CodigoAlejoFinal\\Integrador-codigoAlejo\\Integrador\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Bruno\\Desktop\\Facultad\\Segundo_a\u00F1o\\Primer _cuatrimestre\\Algoritmos_y_programacion\\Integrador-CodigoAlejoFinal\\Integrador-codigoAlejo\\Integrador\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAFEBAAAAAAAAAAAAAGIBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T03:27:59.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Obrero.cs",
+              "DocumentMoniker": "C:\\Users\\Bruno\\Desktop\\Facultad\\Segundo_a\u00F1o\\Primer _cuatrimestre\\Algoritmos_y_programacion\\Integrador-CodigoAlejoFinal\\Integrador-codigoAlejo\\Integrador\\Obrero.cs",
+              "RelativeDocumentMoniker": "Obrero.cs",
+              "ToolTip": "C:\\Users\\Bruno\\Desktop\\Facultad\\Segundo_a\u00F1o\\Primer _cuatrimestre\\Algoritmos_y_programacion\\Integrador-CodigoAlejoFinal\\Integrador-codigoAlejo\\Integrador\\Obrero.cs",
+              "RelativeToolTip": "Obrero.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T03:40:34.21Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
